@@ -2,9 +2,9 @@
 *   Legt allgemeine Information über die Mission fest.
 */
 
-author = "Name für Gruppe Adler";                                               // Missionsersteller
-onLoadName = "COOP TEMPLATE";                                                   // Name der Mission
-onLoadMission = "";                                                             // Beschreibung der Mission (wird im Ladebildschirm unterhalb des Ladebildes angezeigt)
+author = "Headiii & Salbei";                                               // Missionsersteller
+onLoadName = "Operation Potato Chicken";                                                   // Name der Mission
+onLoadMission = "Light Rifle Company Assault";                                                             // Beschreibung der Mission (wird im Ladebildschirm unterhalb des Ladebildes angezeigt)
 loadScreen = "data\loadpic.paa";                                                // Ladebild
 overviewPicture = "";                                                           // Bild, das in der Missionsauswahl angezeigt wird
 overviewText = "";                                                              // Text, der in der Missionsauswahl angezeigt wird
